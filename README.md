@@ -5,12 +5,12 @@ Merhaba, Airline302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptı�
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
-Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
-Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
-Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
-Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
-UI katmanı için Travel isimli hazır bir tema kullandık.
-Uçak biletini alırken gelen arayüzde JQUERY ile Tarih alanı bugünden başlayacak şekilde kısıtlandı. Müşteriler geçmiş bir tarihe bilet alamazlar.
+* Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
+* Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+* Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
+* Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
+* UI katmanı için Travel isimli hazır bir tema kullandık.
+* Uçak biletini alırken gelen arayüzde JQUERY ile Tarih alanı bugünden başlayacak şekilde kısıtlandı. Müşteriler geçmiş bir tarihe bilet alamazlar.
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 <img width="960" alt="airline1" src="https://user-images.githubusercontent.com/73273677/220090391-6e3a8b9b-d393-4f56-afd5-147d54efba91.png">
 <img width="959" alt="airline2" src="https://user-images.githubusercontent.com/73273677/220090488-1f70b6c2-2b0e-4cd5-abf8-828083e9a9b2.png">
